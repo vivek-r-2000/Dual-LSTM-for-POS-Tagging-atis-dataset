@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Download the Dataset
-Download the UD English dataset in CoNLL-U format and place it in the Data directory.
+Download the UD English dataset in CoNLL-U format from the [UD English-EWT](https://github.com/UniversalDependencies/UD_English-EWT/tree/master) repository.
 
 ### 4. Run the Jupyter Notebook
 Run the jupyter notebook in your python environment
